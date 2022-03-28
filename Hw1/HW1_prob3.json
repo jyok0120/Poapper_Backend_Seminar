@@ -1,0 +1,13 @@
+{
+    "name" : "Juyeon Ok",
+    "job" : "Student",
+    "age" : 22,
+    "hobby" : ["game", "book", "music"],
+    "course_table" : [
+        {"name": "Computer Architecture", "type": "전공"},
+        {"name": "Artificial Intelligence", "type": "전공"},
+        {"name": "과학사회학", "type": "교양"},
+        {"name": "과제연구1", "type": "전공"},
+        {"name": "코어트레이닝", "type": "교양"}
+    ]
+}
